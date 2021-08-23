@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TDorau
 - 👀 I’m interested in aerospace engineering.
-- 🌱 I’m currently learning programming.
-- 📫 How to reach me tim.dorau@tu-dresden.de
+- 🌱 I’m currently writing helpful code.
+
 
 <!---
 TDorau/TDorau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
